@@ -11,7 +11,7 @@ appearances such as cap shapes, cap colours, cap surfaces, odor, gills spacing, 
 colour and stalk shape are among many other features.
 
 
-<img src = "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/278858_2200-732x549.jpg" />
-
 ![image](https://user-images.githubusercontent.com/43291536/140433238-f5aaef57-228a-4d55-bfa9-1b373d2ea035.png)
+
+<img src = "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/278858_2200-732x549.jpg" />
 
